@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Kalab Dereje</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kal-dereje&label=Profile%20views&color=0e75b6&style=flat" alt="kal-dereje" /> </p>
 
 - 💬 Ask me about **React, Flutter,AI**
 
@@ -16,3 +15,4 @@
 <p><img align="center" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs?username=kal-dereje&show_icons=true&locale=en&layout=compact" alt="kal-dereje" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kal-dereje&" alt="kal-dereje" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kal-dereje&label=Profile%20views&color=0e75b6&style=flat" alt="kal-dereje" /> </p>
