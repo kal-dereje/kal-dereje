@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalab Dereje</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal-dereje&label=Profile%20views&color=0e75b6&style=flat" alt="kal-dereje" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kal-dereje" alt="kal-dereje" /></a> </p>
 
 - 💬 Ask me about **React, Flutter,AI**
 
